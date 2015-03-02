@@ -10,3 +10,6 @@
 [submodule "papyros-shell"]
 	path = papyros-shell
 	url = git@github.com:papyros/papyros-shell.git
+[submodule "sddm-theme"]
+	path = sddm-theme
+	url = git@github.com:papyros/sddm-theme.git
