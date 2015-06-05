@@ -5,3 +5,10 @@ Papyros
 
 General issue tracking and wikis for Papyros, along with a submodules for all
 the Papyros modules so you can build a known-working combination of our repositories.
+
+### Papyros Backers
+
+Papyros is supported by the following contributors on our [Bountysource Salt campaign](https://salt.bountysource.com/teams/papyros):
+
+* Hoang Anh
+* And several other sponsors listed in the BACKERS.md file
