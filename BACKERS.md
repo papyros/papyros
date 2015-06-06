@@ -6,4 +6,9 @@ Papyros is supported by the following contributors on our [Bountysource Salt cam
 * Hoang Anh
 * Graham Steffaniak
 * Christine Noblejas
+* yaccin
+* tobyx
+* sonph
+* David Smit
+* mnitpro
 * And several anonymous sponsors
