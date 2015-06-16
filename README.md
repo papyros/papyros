@@ -11,4 +11,10 @@ the Papyros modules so you can build a known-working combination of our reposito
 Papyros is supported by the following contributors on our [Bountysource Salt campaign](https://salt.bountysource.com/teams/papyros):
 
 * Hoang Anh
-* And several other sponsors listed in the BACKERS.md file
+* Alexandra S Smith
+* Alexander Tewfik
+* Richard Magalski
+* Eric Carr
+* sona ohanian
+* Kendra Gilliams
+* And many other sponsors listed in the BACKERS.md file
