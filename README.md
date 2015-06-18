@@ -13,8 +13,12 @@ Papyros is supported by the following contributors on our [Bountysource Salt cam
 * Hoang Anh
 * Alexandra S Smith
 * Alexander Tewfik
+* Whitney Willison
+* Michelle Spitz
 * Richard Magalski
 * Eric Carr
 * sona ohanian
 * Kendra Gilliams
+* Terrie Barney
+* Joyce Siroonian
 * And many other sponsors listed in the BACKERS.md file
